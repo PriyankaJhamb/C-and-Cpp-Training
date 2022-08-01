@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593278088 source:c:\users\user\documents\codeblocks\strcat() and strncat()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

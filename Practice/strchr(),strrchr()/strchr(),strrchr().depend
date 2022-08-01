@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593282224 source:c:\users\user\documents\codeblocks\strchr(),strrchr()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

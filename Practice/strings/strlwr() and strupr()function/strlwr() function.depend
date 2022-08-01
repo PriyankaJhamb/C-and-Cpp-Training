@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593260961 source:c:\users\user\documents\codeblocks\strlwr() function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

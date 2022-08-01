@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593260397 source:c:\users\user\documents\codeblocks\strlen()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
